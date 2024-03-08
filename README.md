@@ -4,7 +4,6 @@
 
 🔴 Live demo: <a href="https://demo.goncermor.com/fancy-login/">Here</a>
 
-🏆 Finished version: <a href="https://github.com/Goncermor/Fancy-Login/releases/tag/Main">Here</a>
 
 What I used:
 <div align="left">
